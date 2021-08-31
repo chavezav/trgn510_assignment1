@@ -1,0 +1,231 @@
+    1  passwdBry061412Hern!
+    2  passwd Bry061412Hern!
+    3  passwd
+    4  tree ~
+    5  mkdr home/chavezav/bin
+    6  mkdir home/chavezav/bin
+    7  tree ~
+    8  ~
+    9  mkdir bin
+   10  tree ~
+   11  mkdir scripts
+   12  mkdir projects
+   13  tree ~
+   14  chavezav
+   15  ssh chavezav@trgn.usc.edu
+   16  passwd
+   17  ssh chavezav@trgn.usc.edu
+   18  mkdir assignments
+   19  cd assignments
+   20  ~/assignments
+   21  git clone https://github.com/chavezav/trgn_assignment1a.git
+   22  cd trgn510_assignment1a
+   23  cd trgn_assignment1a
+   24  ~/assignments
+   25  git clone https://github.com/chavezav/trgn510_assignment1.git
+   26  cd trgn510_assignment1
+   27  vim Readme.md
+   28  ~/assignments
+   29  cd assignments
+   30  git clone https://github.com/chavezav/trgn510_assignment1.git
+   31  vim Readme.md
+   32  ~/assignments
+   33  ls
+   34  git clone https://github.com/chavezav/trgn510_assignment1.git
+   35  vim Readme.md
+   36  ~assignments
+   37  ~/assignments
+   38  cd assignments
+   39  ls
+   40  git clone https://github.com/chavezav/trgn510_assignment1.git
+   41  Readme.md
+   42  git add . -A
+   43  vim trgn510_assignment1
+   44  ~/assignments
+   45  cd assignments
+   46  vim trgn510_assignment1.md
+   47  git clone https://github.com/chavezav/trgn510_assignment1.git
+   48  ~/assignments
+   49  cd assignments
+   50  cd trgn510_assignment1
+   51  vim Readme.md
+   52  ~/assignments
+   53  cd assignments
+   54  cd trgn510_assignments1
+   55  cd trgn510_assignment1
+   56  vm trgn510_assignment1
+   57  git add . -A
+   58  git commit -m "First commit"
+   59  chavezav
+   60  git config --global user.name "chavezav"
+   61  git push
+   62  cd trgn510_assignment1
+   63  git clone https://github.com/chavezav/trgn510_assignment1.git
+   64  cd trgn510_assignment1
+   65  vim Readme.md
+   66  ~/assignments
+   67  cd assignments
+   68  git clone https://github.com/chavezav/trgn510_assignment1.git
+   69  cd trgn510_assignment1
+   70  vim trgn510_assignment.md
+   71  ~/assignments
+   72  cd assignments
+   73  git clone https://sites.usc.edu/translationalgenomics/trgn510/trgn510-week1/
+   74  cd trgn510_assignment1
+   75  vim trgn510_assignment1 # Assignment 1
+   76  ~/assignments
+   77  git clone https://sites.usc.edu/translationalgenomics/trgn510/trgn510-week1/
+   78  cd trgn510_assignments1
+   79  cd trgn510_assignment1
+   80  vim README.md
+   81  git add . -A
+   82  git commit -m "First common"
+   83  git push
+   84  mkdir -p ~/assignments/trgn510_assignment1/problem1
+   85  cd problem1
+   86  ls
+   87  ~/assignments
+   88  cd trgn510_assignment1
+   89  ~/problem1
+   90  ~/trgn510_assignment1
+   91  mkdir problem1
+   92  pwd
+   93  ~/problem1
+   94  mkdir problem1
+   95  pwd
+   96  cd problem1
+   97  ~problem1
+   98  ~/problem1
+   99  ~/assignment/trgn510_assignment1/problem1
+  100  ~/assignments/trgn510_assignment1/problem1
+  101  history
+  102  myhistory.text > ~/assignments/trgn510_assignment1/problem1
+  103  ~/assignments/trgn510_assignment1/problem1/myhistory.text
+  104  history
+  105  myhistory.text > problem1
+  106  history
+  107  myhistory.txt > problem1
+  108  history > myhistory.problem1.txt
+  109  ls
+  110  cat
+  111  ~/assignments/trgn510_assignment1/problem1/myhistory.txt
+  112  myhistory.problem1.txt
+  113  ~/myhistory.txt
+  114  ~/myhistory.problem1.txt
+  115  pwd
+  116  history
+  117  history > myhistory.txt
+  118  mkdir myhistory.txt
+  119  myhistory.txt > problem1
+  120  ~/myhistory.txt
+  121  ~
+  122  ~/myhistory.txt
+  123  ~/assignments
+  124  cd myhistory.txt
+  125  myhistory.txt > ~/problem
+  126  mkdir myhistory.txt
+  127  history
+  128  rm myhistory.txt
+  129  mkdir myhistory.txt
+  130  ls
+  131  history > myhistory.txt
+  132  ~/myhistory.txt
+  133  ~/assignments/trgn510_assignment1/problem1/myhistory.txt
+  134  myhistory.txt
+  135  ~ myhistory.txt
+  136  pwd
+  137  ls
+  138  ~ 
+  139  cd trgn510_assignment1
+  140  cd ~/assignments/trgn510_assignment1
+  141  mkdir problem2
+  142  cp /data/bashrc_sample ~/assignments/trgn510_assignment1/problem2/.
+  143  vim bashrc_sample
+  144  source ~/assignments/trgn510_assignment1/problem2/bashrc_sample
+  145  vim bashrc_sample
+  146  source ~/assignments/trgn510_assignment/problem2/bashrc_sample
+  147  source ~/assignments/trgn510_assignment1/problem2/bashrc_sample
+  148  vim bashrc_sample
+  149  source ~/assignments/trgn510_assignment1/problem2/bashrc_sample
+  150  ~/assignments/trgn510_assignment1/problem2
+  151  cp ~/problem2
+  152  cp /data/.bashrc ~/assignments/trgn510_assignment1/problem2/.
+  153  vim .barshrc
+  154  vim bashrc_sample
+  155  source ~/assignments/trgn510_assignment1/problem2/bashrc_sample
+  156  cd ~/assignments/trgn510_assignment1/Problem2
+  157  vim bashrc_sample
+  158  source ~/assignments/trgn510_assignment1/problem2/bashrc_sample
+  159  cp ~/assignments/trgn510_assignment1/problem2/basrc_sample ~/.bashrc
+  160  cd ~/assignments
+  161  cp ~/assignments/trgn510_assignment1/problem2/basrc_sample ~/.bashrc
+  162  cp /data/bashrc_sample ~/assignments/trgn510_assignment1/problem2/.
+  163  vim bashrc_sample
+  164  vim bashrc_sample 
+  165  source ~/assignments/trgn510_assignment1/problem2/bashrc_sample
+  166  vim .bashrc
+  167  vim bashrc
+  168  cd ~/assignments/trgn510_assignment1/problem2
+  169  vim bashrc_sample
+  170  source ~/assignments/trgn510_assignment1/problem2/bashrc_sample
+  171  cp ~/assignments/trgn510_assignment1/problem2/bashrc_sample ~/.bashrc
+  172  logoff
+  173  logout
+  174  cp /home/data/vimrc ~/assignment/trgn510_assignment1/problem2/
+  175  ~/assignments
+  176  cp cp /home/data/vimrc ~/assignments/trgn510_assignment1/problem2/
+  177  ~/assignment/trgn510_assignment1/problem2
+  178  ~/assignments/trgn510_assignment1/problem2
+  179  cd ~/assignments/trgn510_assignment1/problem2
+  180  cp /home/data/vimrc ~/assignments/trgn510_assignment1/problem2/
+  181  vim vimrc
+  182  ~/home
+  183  pwd
+  184  cd ~/home
+  185  ~
+  186  cd ~
+  187  cp vimrc ~/.vimrc
+  188  cp assignments/trgn510_assignment1/problem2/vimrc ~/home
+  189  cp vimrc ~/.vimrc
+  190  cd ~/home
+  191  pwd
+  192  cd ~
+  193  cd ~home
+  194  cp home/vimrc ~/chavezav@trgn
+  195  cp assignments/trgn510_assignment1/problem2/vimrc ~/home/chavezav@trgn
+  196  cp assignments/trgn510_assignment1/problem2/vimrc ~/chavezav@trgn
+  197  cp vimrc ~/.vimrc
+  198  vim .vimrc
+  199  cd ~/problem2
+  200  cd ~/assignments/trgn510_assignment1/problem2
+  201  cp virmc ~/.vimrc
+  202  cp /home/data/vimrc ~/assignments/trgn510_assignment1/problem2/
+  203  cp virmc ~/.vimrc
+  204  vim virmc
+  205  vim vimrc
+  206  cp vimrc ~/.vimrc
+  207  vim .vimrc
+  208  vim vimrc
+  209  cd ~/
+  210  vim vimrc
+  211  cp vimrc ~/.vimrc
+  212  logout
+  213  cp /assignments/trgn510_assignment1/problem2/vimrc ~/chavezav@trgn
+  214  cp /assignments/trgn510_assignment1/problem2/vimrc ~/chavezav@trgn/
+  215  cp /assignments/trgn510_assignment1/problem2/vimrc ~/chavezav
+  216  ~/vimrc
+  217  ~/chavezav
+  218  cd ~/assignments/trgn510_assignment1/problem2
+  219  vim vimrc
+  220  cd ~/chavezav@trgn
+  221  cd ~/
+  222  cp assignments/trgn510_assignment1/problem2/vimrc ~/.vimrc
+  223  vim .vimrc
+  224  cd ~/assignments/trgn510_assignment1
+  225  mkdir problem3
+  226  ls -l
+  227  cd ~/assignments/trgn510_assignment1/problem3
+  228  My\ history.txt
+  229  touch My\ history.txt
+  230  ls
+  231  history > My\ history.txt

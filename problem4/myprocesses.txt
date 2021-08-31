@@ -1,0 +1,6 @@
+chavezav 153686      1  0 11:35 ?        00:00:00 vim Readme.md
+root     165915   2198  0 17:05 ?        00:00:01 sshd: chavezav [priv]
+chavezav 165924 165915  0 17:05 ?        00:00:00 sshd: chavezav@pts/4
+chavezav 165925 165924  0 17:05 pts/4    00:00:00 -bash
+chavezav 169845 165925  0 18:04 pts/4    00:00:00 ps -ef
+chavezav 169846 165925  0 18:04 pts/4    00:00:00 grep --color=auto chavezav
